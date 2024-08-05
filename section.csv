@@ -1,16 +1,41 @@
-id,sectionname
-1,Comunicación
-2,Trabajar en equipo
-3,Pensamiento Crítico
-4,JavaScript
-5,Angular
-6,Springboot
-7,SQL Server
-8,Kotlin
-9,Swift
-10,Frontend
-11,Fullstack
-12,Backend
-13,Desarrollador Fullstack
-14,Desarrollador Frontend
-15,Desarrollador Backend
+SectionId,SectionName
+1,Resolucion de problemas
+2,Kotlin
+3,Frontend
+4,Desarrollador Frontend
+5,Orientacion al cliente
+6,Comunicacion
+7,Innovacion
+8,Trabajo en equipo
+9,Flexibilidad
+10,Aprendizaje continuo
+11,Compromiso
+12,Autocontrol
+13,Confianza en mi mismo
+14,Organizacion
+15,React
+16,Angular
+17,Vue.js
+18,.Net
+19,Spring Boot
+20,MongoDB
+21,Django
+22,MySQL
+23,Flutter
+24,Swift
+25,Excel
+26,ETL
+27,Power BI
+28,Backend
+29,Fullstack
+30,Android
+31,IOS
+32,Ingeniero de datos
+33,Desarrollador Backend
+34,Desarrollador Fullstack
+35,Desarrollador Móvil
+36,Ingeniería de datos
+37,Iniciativa
+38,Orientación a los resultados
+39,Liderazgo
+40,Prevención a riesgos
